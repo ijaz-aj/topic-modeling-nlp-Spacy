@@ -8,26 +8,19 @@ This notebook demonstrates practical applications of Gensim for Topic Modeling. 
 
 ## Contents
 
-- `topic_modeling.ipynb`: Jupyter Notebook for hands-on Topic Modeling with Gensim.
-- `dataset_api_import.py`: Python script for importing API-based datasets.
-- `requirements.txt`: Python dependencies.
+- `Topic_Modelling_with_Gensim.ipynb`: Jupyter Notebook for hands-on Topic Modeling with Gensim.
+
 
 ## Getting Started
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/topic-modeling-gensim.git
+    git clone https://github.com/ijaz-aj/Topic_Modelling_with_Gensim.git
     cd topic-modeling-gensim
     ```
 
-2. Install the dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Open and run the `topic_modeling.ipynb` notebook using Jupyter or your preferred environment.
+3. Open and run the `Topic_Modelling_with_Gensim.ipynb` notebook using Jupyter or your preferred environment.
 
 ## Notebook Highlights
 
@@ -39,7 +32,6 @@ This notebook demonstrates practical applications of Gensim for Topic Modeling. 
 
 - Gensim
 - Jupyter
-- Other dependencies listed in `requirements.txt`
 
 ## Contributing
 
